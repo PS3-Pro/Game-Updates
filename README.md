@@ -1,2 +1,2 @@
 # Game-XMLs
-Game and Homebrew update .xml checker for PS3™ 4K Pro
+Game update checker with homebrew suppoert for PS3™ 4K Pro.
