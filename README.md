@@ -8,5 +8,5 @@ Game update checker with homebrew support for PS3™ 4K Pro.
 
  # Credits
  
- All credits go to the game developers.
+ All credits goes to the game developers.
 </div>
