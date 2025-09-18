@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<titlepatch status="alive" titleid="PS34KPROX">
+	<tag name="PSONLINE_T1" popup="true" signoff="false">
+		<package version="02.01" size="12956080" sha1sum="cc15ce2796073bce878c4dfa060588cfee400c6b" url="https://github.com/PS3-Pro/PlayStation-TV/releases/download/PlayStationTV/PlayStationTV.pkg" ps3_system_ver="04.8400">
+			<paramsfo>
+				<TITLE>PlayStation®TV</TITLE>
+			</paramsfo>
+		</package>
+	</tag>
+</titlepatch>
