@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <titlepatch status="alive" titleid="PS34KPROX">
 	<tag name="PS34KPROX_T1" popup="true" signoff="false">
-		<package version="05.67" size="38545696" sha1sum="a0576ba736961e03527f9a18dc485231fda078a0" url="" ps3_system_ver="04.8400">
+		<package version="05.66" size="38545696" sha1sum="a0576ba736961e03527f9a18dc485231fda078a0" url="" ps3_system_ver="04.8400">
 			<paramsfo>
 				<TITLE>PS3™ 4K Pro</TITLE>
 			</paramsfo>
